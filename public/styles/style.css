@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #111;
+}
+form input{
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    background-color: #222;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+}
